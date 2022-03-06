@@ -1,0 +1,20 @@
+
+.nav{
+   display: flex;
+   flex-direction: column;
+ }
+
+.logo {
+  height: 100px;
+}
+
+.selected_category {
+  color: black;
+  display: block;
+}
+
+.category_title{
+  font-size: 32px;
+  padding: 10px;
+  margin: 10px 30px;
+}
